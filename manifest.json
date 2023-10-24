@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "No Recommendations for Instagram",
+  "version": "1.0",
+  "description": "Remove contas recomendadas do Instagram.",
+  "permissions": ["activeTab", "storage", "https://www.instagram.com/"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.instagram.com/"],
+      "js": ["content.js"]
+    }
+  ]
+}
