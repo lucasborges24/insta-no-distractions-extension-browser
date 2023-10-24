@@ -10,7 +10,6 @@ Motivated by the exhaustion of logging into Instagram and being bombarded with c
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
-- [License](#license)
 
 ## Installation
 
@@ -18,6 +17,8 @@ Motivated by the exhaustion of logging into Instagram and being bombarded with c
 ```bash
 git clone https://github.com/your-username/InstagramPureFeed.git
 ```
+
+## Usage
 
 1. Follow the instructions for [loading unpacked extensions](https://developer.chrome.com/docs/extensions/mv3/getstarted/#manifest) to install this extension in Chrome.
 Usage
