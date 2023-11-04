@@ -21,6 +21,7 @@ Future updates will aim to expand compatibility to other browsers and operating 
   - [Compatibility](#compatibility)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
+  - [Usage](#usage)
   - [Contribution](#contribution)
 
 ## Installation
@@ -29,6 +30,8 @@ Future updates will aim to expand compatibility to other browsers and operating 
 ```bash
 git clone https://github.com/your-username/InstagramPureFeed.git
 ```
+
+## Usage
 
 1. Follow the instructions for [loading unpacked extensions](https://developer.chrome.com/docs/extensions/mv3/getstarted/#manifest) to install this extension in Chrome.
 Usage
