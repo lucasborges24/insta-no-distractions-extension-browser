@@ -5,12 +5,23 @@ Motivated by the exhaustion of logging into Instagram and being bombarded with c
 > **Note:** Currently, only the functionality to remove account suggestions is working.
 
 
+## Compatibility
+
+As of the latest update, this extension has been tested and confirmed to work on:
+
+- **Google Chrome** on **macOS**
+
+Future updates will aim to expand compatibility to other browsers and operating systems. Please feel free to contribute by testing and reporting issues or suggesting fixes for other platforms.
+
+
+
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [License](#license)
+- [InstagramPureFeed](#instagrampurefeed)
+  - [Compatibility](#compatibility)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Contribution](#contribution)
 
 ## Installation
 
